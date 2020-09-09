@@ -1,0 +1,2 @@
+- What is a Linked List / What is an Array / What is a hash table?
+- What happens when you type www.google.com

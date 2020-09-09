@@ -1,0 +1,4 @@
+#!/Users/nasr.maswood/code/chicago/.venv/bin/python3
+# EASY-INSTALL-SCRIPT: 'mypy==0.782','mypyc'
+__requires__ = 'mypy==0.782'
+__import__('pkg_resources').run_script('mypy==0.782', 'mypyc')

@@ -1,0 +1,10 @@
+mypy
+flake8
+pylint
+black
+
+[dev]
+mypy
+flake8
+pylint
+black

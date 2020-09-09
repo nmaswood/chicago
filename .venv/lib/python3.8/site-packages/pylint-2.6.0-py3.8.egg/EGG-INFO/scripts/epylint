@@ -1,0 +1,4 @@
+#!python
+from pylint import epylint
+
+epylint.Run()
